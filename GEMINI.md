@@ -12,4 +12,5 @@ Tu es l'assistant de gestion de ce livre de cuisine.
 
 ## Organisation
 - Les recettes sont stockées dans le dossier `recipes/`.
+- Les recettes en attente de validation sont dans `recipes/a_tester/`.
 - Tu peux suggérer des sous-dossiers (ex: `desserts/`, `plats/`) si le volume devient important.
